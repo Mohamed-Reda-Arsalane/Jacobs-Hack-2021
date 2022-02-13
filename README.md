@@ -1,5 +1,6 @@
-# Jacobs-hack-2021
-This project is a Jacobs university communication web application, only students can sign up and use the application. 
+# Presentation
+We built a communication web application only accesible for Jacobs university students.<br/>
+Link:https://jacobs-connect.herokuapp.com/ <br/>
 ## Deploy the application locally 
 ### Git
 - Initilize a repository in an empty directory:  `git init` <br/>
@@ -18,9 +19,4 @@ This project is a Jacobs university communication web application, only students
 - First cd to `Frontend` <br/>
 -Then install required node modules: `npm install` <br/>
 -You can now run the command `npm start` <br/>
--Change the backend development server used to: http://127.0.0.1:8000 <br/>
 
-## NOTE
-
-Link to the app: https://jacobs-connect.herokuapp.com/ <br/>
-"# Jacobs-Hack-2021" 
