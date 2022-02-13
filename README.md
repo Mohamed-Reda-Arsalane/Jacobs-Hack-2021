@@ -1,5 +1,5 @@
 # Presentation
-We built a communication web application only accesible for Jacobs university students.<br/>
+We built a communication web application only accessible for Jacobs university students.<br/>
 Link:https://jacobs-connect.herokuapp.com/ <br/>
 ## Deploy the application locally 
 ### Git
